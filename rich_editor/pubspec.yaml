@@ -7,8 +7,7 @@ homepage:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_logger: ^0.0.1
-  material_color_picker: ^0.0.1
+  flutter_logger: ^0.0.4+1
 
 dev_dependencies:
   flutter_test:
